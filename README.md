@@ -4,14 +4,20 @@ Hello, World!
 My name is Unknown, currently studying networking and security at a vocational college.
 
 こんにちは。現在、専門学校でITを学習しているUnknownと申します。
-現在、基本情報技術者試験をはじめとした国家資格 / ベンダー資格の取得に向け、日々学習を行っています。
+現在、国家資格 / ベンダー資格の取得に向け、日々学習を行っています。
+
+# プロフィール
+| 項目 | 内容 |
+| --- | --- |
+| 本名 | 横山恭伍 (Yokoyama Kyogo) |
+| 取得資格 | Python3 エンジニア認定基礎試験<br>基本情報技術者試験 (合格見込み。26年7月下旬に確定予定) |
+| 目標資格 | Cisco CCNA / AWS SAA / (できれば)情報処理安全確保支援士 |
 
 ## できること / I Can
-Python (Python3 エンジニア認定基礎試験 取得済)
-簡易なネットワーク / データベースの設計および構築
+- Pythonのコーディング
+- コンピューターの仕組み、ネットワーク、データベース、およびセキュリティについての理解
+- 簡易なネットワーク / データベースの設計および構築
 
-Coding using Python (Passed the Python 3 Certified Engineer Basic Examination)
-Design and implementation of simple networks and databases using MySQL
 <!--
 **Unknown19021/Unknown19021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

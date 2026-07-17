@@ -9,7 +9,6 @@ My name is Unknown, currently studying networking and security at a vocational c
 # プロフィール
 | 項目 | 内容 |
 | --- | --- |
-| 本名 | 横山恭伍 (Yokoyama Kyogo) |
 | 取得資格 | Python3 エンジニア認定基礎試験<br>基本情報技術者試験 (合格見込み。26年7月下旬に確定予定) |
 | 目標資格 | Cisco CCNA / AWS SAA / (できれば)情報処理安全確保支援士 |
 
